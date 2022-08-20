@@ -1,0 +1,79 @@
+body {
+    width: 60%;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header Styling */
+
+header {
+    padding: 20px;
+}
+
+#judul {
+    font-size: 48px;
+}
+
+ul {
+    display: inline;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    color: salmon;
+    font-size: large;
+}
+
+/* Image Styling */
+
+#gambar_utama {
+    border-top: 8px solid salmon;
+    border-bottom: 8px solid aqua;
+    width: 100%;
+}
+
+/* Content Styling */
+
+main {
+    width: 60%;
+    float: left;
+    margin-right: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+main h2 {
+    font-size: xx-large;
+}
+
+aside {
+    margin-top: 50px;
+}
+
+aside #gambar_profil {
+    width: 30%;
+}
+
+aside img {
+    width: 30px;
+}
+
+footer {
+    clear: left;
+    background-color: gray;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 200px;
+    border-top: 8px solid aqua;
+}
+
+hr {
+    border-bottom: .5px solid aqua;
+}
