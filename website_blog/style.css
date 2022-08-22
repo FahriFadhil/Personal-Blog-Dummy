@@ -59,10 +59,10 @@ aside {
 aside #gambar_profil {
     width: 30%;
 }
-
+/* 
 aside img {
     width: 30px;
-}
+} */
 
 footer {
     clear: left;
